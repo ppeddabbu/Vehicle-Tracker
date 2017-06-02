@@ -1,0 +1,4 @@
+api/tracker-api/.idea/*
+api/tracker-api/target/*
+*.iml
+
